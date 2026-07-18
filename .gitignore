@@ -1,0 +1,22 @@
+# Dataset
+*.csv
+
+# PyCharm
+.idea/
+
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Practice notebook
+Sentiment_Analysis_2.ipynb
+
+# Windows
+Desktop.ini
