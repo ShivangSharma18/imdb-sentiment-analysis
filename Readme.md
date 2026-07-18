@@ -1,7 +1,5 @@
 # Overview
 
-# Overview
-
 This is a beginner-level sentiment analysis project that classifies IMDB movie reviews as positive or negative. It uses TF-IDF to convert review text into numerical features and Logistic Regression for classification.
 # Dataset
 
