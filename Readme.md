@@ -33,8 +33,8 @@ notebooks.
 
 The Libraries I have made use of in this project are: Pandas and 
 sklearn. Several components were imported from sklearn such as 
-Logistic Regression from `sklearn.linear_model`, `train_test_split 
-from sklearn.model_selection`, TfidfVectorizer and CountVectorizer 
+Logistic Regression from `sklearn.linear_model`, train_test_split
+from `sklearn.model_selection`, TF-IDF Vectorizer and CountVectorizer 
 from `sklearn.feature_extraction.text`, accuracy_score, 
 confusion_matrix, classification_report from `sklearn.metrics` etc.
 
