@@ -15,8 +15,5 @@ __pycache__/
 # Jupyter temporary files
 .ipynb_checkpoints/
 
-# Practice notebook
-Sentiment_Analysis_2.ipynb
-
 # Windows
 Desktop.ini
